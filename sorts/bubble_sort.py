@@ -4,7 +4,7 @@ def bubble_sort(collection):
     :param collection: some mutable ordered collection with heterogeneous
     comparable items inside
     :return: the same collection ordered by ascending
-
+Bubble sort algorithms
     Examples:
     >>> bubble_sort([0, 5, 2, 3, 2])
     [0, 2, 2, 3, 5]
